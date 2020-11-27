@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+    margin: 0;
+    padding: 0;
+    background: #44bd32;
+    
+}
+.container{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+section{
+    width: 400px;
+    height: 180px;
+    border: 2px solid #2f3640;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: #000;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+p{
+    color: #000;
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
